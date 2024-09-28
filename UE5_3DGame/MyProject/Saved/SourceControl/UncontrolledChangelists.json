@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/JDNelson/Documents/Digital_Games/UE5_3DGame/MyProject/Content/LevelPrototyping/Materials/M_MetallicBox.uasset"
+			]
+		}
+	]
+}
